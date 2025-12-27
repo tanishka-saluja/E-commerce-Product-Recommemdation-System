@@ -11,7 +11,7 @@ public class Main {
         int orderCounter = 1;
 
         while (true) {
-            System.out.println("\n=== Mini Flipkart ===");
+            System.out.println("\n=== E-Commerce Recommendation System ===");
             System.out.println("1. Add Product");
             System.out.println("2. View Products");
             System.out.println("3. Add User");
